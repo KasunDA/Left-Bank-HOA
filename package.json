@@ -1,0 +1,27 @@
+{
+  "name": "Left-Bank-HOA",
+  "version": "1.0.0",
+  "description": "Web portal for Left Bank residents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy-young/Left-Bank-HOA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andy-young/Left-Bank-HOA/issues"
+  },
+  "homepage": "https://github.com/andy-young/Left-Bank-HOA#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "mocha-loader": "^1.1.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  }
+}
